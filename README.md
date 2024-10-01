@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18099289/56750563-558a9400-6784-11e9-8175-ee2a19ee9d75.png" width="300px">
-</p>
-</br>
-
 KeyHacks shows methods to validate different API keys found on a Bug Bounty Program or a pentest.
 
 @Gwen001 has scripted the entire process available here and it can be found [here](https://github.com/gwen001/pentest-tools/blob/master/keyhacks.sh)
