@@ -1,5 +1,6 @@
 KeyHacks shows methods to validate different API keys found on a Bug Bounty Program or a pentest.
 
+
 # Table of Contents
 
 - [ABTasty API Key](#ABTasty-API-Key)
